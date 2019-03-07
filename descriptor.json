@@ -1,6 +1,6 @@
 {
   "name": "G_Heavy",
-  "description": "Detect samples in images using an adaptive threshold.",
+  "description": "Detect samples in imddages using an adaptive threshold.",
   "container-image": {
     "image": "13emualliug/G_Heavy",
     "index": "docker://",
