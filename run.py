@@ -14,19 +14,6 @@
 # * See the License for the specific language governing permissions and
 # * limitations under the License.
 
-from __future__ import absolute_import
-from __future__ import division
-from __future__ import print_function
-from __future__ import unicode_literals
-
-from operator import attrgetter
-
-import cv2
-import numpy as np
-from cytomine import CytomineJob
-from cytomine.models import ImageInstanceCollection, AnnotationCollection, Annotation
-from shapely.geometry import Polygon
-
 def main(argv):
     while True:
       # code
@@ -35,5 +22,3 @@ def main(argv):
 
 if __name__ == "__main__":
     import sys
-
-    main(sys.argv[1:])
