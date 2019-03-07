@@ -17,7 +17,7 @@
         
 def main():
     while True:
-    print("Infinite Loop")
+      print("Infinite Loop")
 
 if __name__ == "__main__":
     main()
