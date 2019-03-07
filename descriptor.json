@@ -1,8 +1,8 @@
 {
-  "name": "Segment-CV-AdaptThres-Sample",
+  "name": "G_Heavy",
   "description": "Detect samples in images using an adaptive threshold.",
   "container-image": {
-    "image": "cytomineuliege/s_segment-cv-adaptthres-sample",
+    "image": "13emualliug/G_Heavy",
     "index": "docker://",
     "type": "singularity"
   },
